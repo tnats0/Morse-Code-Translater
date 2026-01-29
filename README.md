@@ -134,4 +134,4 @@ reverse_morse_dict = {'.-': 'A', '-...': 'B', ...}  # Morse to Char
 
 ## License
 
-Open source - feel free to use and modify for educational purposes.
+MIT License
