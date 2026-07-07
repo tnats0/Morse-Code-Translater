@@ -1,6 +1,5 @@
 # For testing
 
-
 words_morse = {
     "HELLO": ".... . .-.. .-.. ---",
     "WORLD": ".-- --- .-. .-.. -..",
